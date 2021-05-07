@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="Jong",
-    version="1.0.2",
+    version="1.0.3",
     license='MIT',
     author="Syniez",
     author_email="js990204@naver.com",
