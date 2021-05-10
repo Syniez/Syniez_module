@@ -5,4 +5,4 @@ Python modules for my convenience
 + pip install Jong
 
 ### functions
-Source code is in functions.py file
++ Source code is available in https://github.com/Syniez/Syniez_module/tree/main/Jong
