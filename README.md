@@ -2,7 +2,7 @@
 Python modules for my convenience 
 
 ## Usage
-pip install Jong
++ pip install Jong
 
 ### functions
-You can see source code in functions.py file
+Source code is in functions.py file
