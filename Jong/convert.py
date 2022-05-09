@@ -255,7 +255,6 @@ def make_cylindrical_cam(cam: Camera):
     )
 
 
-
 def preprocess(img, json, dst):
     # generate camera instances
     fisheye_cam = read_cam_from_json(json)
